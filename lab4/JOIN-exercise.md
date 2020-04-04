@@ -17,7 +17,7 @@ HINT: CONCAT(column1, column2) is used for combining column results.
 ------------------------------------ EXTRA ------------------------------------
 
 Write a query against the **AdventureWorks** database that returns ProductID, Name, and SpecialOfferID of
-1. all products and that have <u>No special offers</u>, and
-2. all prodcut that have <u>No discount offer</u>.
+1. all products and that have <ins>No special offers</ins>, and
+2. all prodcut that have <ins>No discount offer</ins>.
 
-HINT: {1) Production.Product and Sales.SpecialOfferProduct
+HINT: (1) Production.Product and Sales.SpecialOfferProduct
